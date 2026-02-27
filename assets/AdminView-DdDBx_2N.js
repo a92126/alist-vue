@@ -1,0 +1,1 @@
+import{d as o,s as t,u as n,a as r,o as s,c as i,b as c,A as d,e as l,f as m,L as u}from"./index-BjTc9JI2.js";const _={key:0},B=o({__name:"AdminView",setup(f){const{isReady:a}=t(n());return(p,e)=>r(a)?(s(),i("main",_,[c(d),e[0]||(e[0]=l("div",{class:"disk-view"},null,-1))])):(s(),m(u,{key:1}))}});export{B as default};
